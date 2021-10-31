@@ -17,7 +17,7 @@
 - Nous allons predire le score pour un  étudiant qui étudie pendant 9,25 heures/jour .
 
   
-## 🔗 Links
+## 🔗 Data
 [les données utilisées dans ce projet](http://bit.ly/w-data)
 
 
